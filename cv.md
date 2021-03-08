@@ -4,13 +4,13 @@ Belarus, Minsk
 **Mobile:** +375447550097
 **Email:** kirillryzh@gmail.com
 
-## Personal Profile Statement
+## About me
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+My name is Kirill Ryzhenko, I am 20 years old, I am a 3rd year student of BSUIR. I am interested in programming and in particular the programming language Javascript.
 
 ## Skills
 
-- HTML / PUG
+- HTML
 - CSS / SASS / SCSS
 - BEM methodology
 - JS / jQuery
@@ -70,6 +70,8 @@ $(document).ready(function () {
 ```
 
 ## Work experience
+
+Coming soon
 
 ## Education
 
