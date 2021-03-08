@@ -1,0 +1,8 @@
+@media (max-width: 750px) {
+  .about-me__inner {
+    flex-wrap: wrap;
+  }
+  .about-me__inner-text {
+    padding-right: 0;
+  }
+}
